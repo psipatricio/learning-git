@@ -1,1 +1,1 @@
-#Main.go#Main.go
+func main() {}
